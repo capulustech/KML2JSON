@@ -1,0 +1,15 @@
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\bin\Debug\kml2xml.exe
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\bin\Debug\kml2xml.pdb
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml.csprojResolveAssemblyReference.cache
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\MainWindow.g.cs
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\App.g.cs
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml_MarkupCompile.cache
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml_MarkupCompile.lref
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\MainWindow.baml
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml.g.resources
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml.Properties.Resources.resources
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml.csproj.GenerateResource.Cache
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml.exe
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\obj\Debug\kml2xml.pdb
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\bin\Debug\Newtonsoft.Json.dll
+E:\dev\Windows\repo\kml2xml\kml2xml\kml2xml\bin\Debug\Newtonsoft.Json.xml
